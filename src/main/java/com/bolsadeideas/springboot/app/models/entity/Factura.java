@@ -20,7 +20,7 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 @Entity
-@Table(name="facturas")
+@Table(name="raton")
 public class Factura implements Serializable{
 
 	public Factura() {
